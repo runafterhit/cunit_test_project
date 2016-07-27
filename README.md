@@ -1,2 +1,4 @@
 # cunit_test_project
-my first project,upload the cunit to help coding
+hello I am runafterhit ,my name is wuya
+this is my first project,upload the cunit to help coding
+I want to be a good learner
