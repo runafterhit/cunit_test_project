@@ -2,8 +2,8 @@
 #						varibal
 #=====================================================
 objects := main.o 
-CFLAGS := -I./cunit/include/CUnit
-CFLAGS += -L./cunit/lib/
+CFLAGS := -I /usr/share/cunit/include/CUnit
+CFLAGS += -L /usr/share/cunit/lib/
 #=====================================================
 #						rules
 #=====================================================

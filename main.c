@@ -5,10 +5,10 @@ file auther : wuya
 creat time : 2016/7/26
 histroy:
 *************************************************************************/
-#include <CUnit/Basic.h>
-#include <CUnit/Console.h>
-#include <CUnit/CUnit.h>
-#include <CUnit/TestDB.h>
+#include <Basic.h>
+#include <Console.h>
+#include <CUnit.h>
+#include <TestDB.h>
 
 #include <assert.h>
 
